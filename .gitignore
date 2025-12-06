@@ -15,7 +15,6 @@ ENV/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
@@ -50,3 +49,7 @@ out/
 # Local settings
 .claude/settings.local.json
 ui-ux-pro-max-website/*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
